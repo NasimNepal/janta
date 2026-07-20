@@ -23,6 +23,13 @@ st.write("""
 *Electric lab
          """)
 
+st.text("If you intrested in school ")
+
+st.write("Email:wk3943@gmail.com")
+st.write("Phone:9807446464")
+
+st.caption("Design by the name")
+
 st.header("Departments")
 st.write("""
 *Technical
